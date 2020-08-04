@@ -22,5 +22,6 @@ while True:
                 print('BINGO')
                 break 
         i=i+1
-        if i=5:
+        if i>4:
             break
+    
